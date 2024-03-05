@@ -8,6 +8,7 @@ body {
     background-image: URL("../assets/animal-trivia.png");
     background-size: cover;
     background-position: center;
+    background-color: black;
     color: white;
 }
 main {
